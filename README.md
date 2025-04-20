@@ -4,7 +4,7 @@ This is where she makes a mod.
 <img src="logo.png" width="150" alt="logo!!!" />
 
 # Installation
-1) Download the latest version from [releases](https://github.com/Fryy55/quest-disabling/releases)
+1) Download the latest version from [releases](https://github.com/Fryy55/geometry-dash-but-it-uninstalls-cause-it-hate-it/releases)
 2) Install manually via Geode
 
 # Feedback
